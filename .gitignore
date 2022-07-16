@@ -56,7 +56,7 @@ Build/*
 !Build/*/
 Build/*/**
 !Build/*/PakBlacklist*.txt
-!Saved/Screenshots/*/
+!Saved/Screenshots/WindowsEditor/*/
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
